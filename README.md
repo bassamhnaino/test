@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 tolle-liebevolle-szene-pferde-bilder.jpg
 
-[alt text](./tolle-liebevolle-szene-pferde-bilder.jpg)
+![alt text](./tolle-liebevolle-szene-pferde-bilder.jpg)
